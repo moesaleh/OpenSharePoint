@@ -1,7 +1,7 @@
 OpenSharePoint
 ==============
 
-OpenSP is a Community Driven Open Source Implementation of Microsoft SharePoint Foundation, While not sharing the same Microsoft commercial product codebase, the project aims to provide compatibility with the commercial product while using the modern technologies supporting No-SQL backends (Native-JSON Storage), Blobs, Modern UI Frameworks, and it will be based on the Open Source implementation of Microsoft .NET Framework.
+OpenSP Project is a Community Driven Open Source Implementation of Microsoft SharePoint Foundation, While not sharing the same Microsoft commercial product codebase, the project aims to provide compatibility with the commercial product while using the modern technologies supporting No-SQL backends (Native-JSON Storage), Blobs, Modern UI Frameworks, and it will be based on the Open Source implementation of Microsoft .NET Framework.
 
 Get Involved
 ============
